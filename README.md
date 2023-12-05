@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DmytroCherednichenko
-- 👀 I’m interested in becoming a web-developer
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in: web dev
+- 🌱 I’m currently learning JS
 - 📫 How to reach me: instagram @dima4che
 
 <!---
