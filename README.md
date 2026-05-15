@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DmytroCherednichenko
-- 👀 I’m interested in: web dev
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in: full-stack development
+- 🌱 I’m currently studying programming at UTN in Buenos Aires 
 - 📫 How to reach me: instagram @dima4che
 
 <!---
